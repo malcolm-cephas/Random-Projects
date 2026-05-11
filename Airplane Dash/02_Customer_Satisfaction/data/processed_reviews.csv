@@ -1,0 +1,1001 @@
+review_id,review_text,overall_score,travel_type,customer_class,sentiment_score,sentiment_label
+0,Lost my bags again.,3,Personal,Economy,0.0,Neutral
+1,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+2,Smooth boarding process.,10,Personal,Eco Plus,0.4,Positive
+3,No legroom at all.,4,Personal,Business,0.0,Neutral
+4,Rude staff at the gate.,5,Business,Business,-0.3,Negative
+5,Loved the meal options.,7,Business,Eco Plus,0.7,Positive
+6,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+7,Clean plane and friendly staff.,9,Personal,Eco Plus,0.37083333333333335,Positive
+8,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+9,The cabin crew was amazing!,9,Personal,Economy,0.7500000000000001,Positive
+10,Great legroom in economy.,8,Business,Business,0.8,Positive
+11,Rude staff at the gate.,4,Business,Eco Plus,-0.3,Negative
+12,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+13,Great legroom in economy.,8,Personal,Business,0.8,Positive
+14,Clean plane and friendly staff.,7,Business,Business,0.37083333333333335,Positive
+15,Great legroom in economy.,8,Personal,Business,0.8,Positive
+16,Clean plane and friendly staff.,9,Personal,Economy,0.37083333333333335,Positive
+17,Smooth boarding process.,10,Business,Business,0.4,Positive
+18,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+19,Lost my bags again.,1,Business,Eco Plus,0.0,Neutral
+20,The cabin crew was amazing!,10,Personal,Eco Plus,0.7500000000000001,Positive
+21,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+22,Smooth boarding process.,8,Business,Business,0.4,Positive
+23,The food was cold.,4,Personal,Economy,-0.6,Negative
+24,The seat wouldn't recline.,5,Business,Business,0.0,Neutral
+25,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+26,The cabin crew was amazing!,7,Personal,Eco Plus,0.7500000000000001,Positive
+27,Wi-fi was fast and reliable.,7,Business,Eco Plus,0.2,Positive
+28,Rude staff at the gate.,5,Business,Eco Plus,-0.3,Negative
+29,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+30,Lost my bags again.,3,Business,Economy,0.0,Neutral
+31,Wi-fi didn't work the whole flight.,3,Personal,Business,0.2,Positive
+32,Clean plane and friendly staff.,7,Business,Business,0.37083333333333335,Positive
+33,Loved the meal options.,10,Personal,Business,0.7,Positive
+34,Great legroom in economy.,9,Personal,Economy,0.8,Positive
+35,The food was cold.,1,Business,Eco Plus,-0.6,Negative
+36,Loved the meal options.,7,Business,Eco Plus,0.7,Positive
+37,Wi-fi didn't work the whole flight.,1,Personal,Economy,0.2,Positive
+38,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+39,The food was cold.,4,Business,Business,-0.6,Negative
+40,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+41,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+42,No legroom at all.,2,Personal,Business,0.0,Neutral
+43,The food was cold.,1,Business,Business,-0.6,Negative
+44,Rude staff at the gate.,2,Personal,Business,-0.3,Negative
+45,Rude staff at the gate.,3,Personal,Eco Plus,-0.3,Negative
+46,The seat wouldn't recline.,5,Personal,Business,0.0,Neutral
+47,Wi-fi was fast and reliable.,9,Personal,Economy,0.2,Positive
+48,Wi-fi didn't work the whole flight.,5,Business,Eco Plus,0.2,Positive
+49,No legroom at all.,3,Business,Eco Plus,0.0,Neutral
+50,Rude staff at the gate.,1,Business,Eco Plus,-0.3,Negative
+51,The cabin crew was amazing!,9,Personal,Economy,0.7500000000000001,Positive
+52,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+53,Great legroom in economy.,10,Business,Economy,0.8,Positive
+54,The seat wouldn't recline.,4,Business,Economy,0.0,Neutral
+55,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+56,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+57,Loved the meal options.,9,Business,Business,0.7,Positive
+58,Clean plane and friendly staff.,9,Personal,Business,0.37083333333333335,Positive
+59,The cabin crew was amazing!,7,Personal,Business,0.7500000000000001,Positive
+60,Clean plane and friendly staff.,9,Personal,Economy,0.37083333333333335,Positive
+61,The food was cold.,4,Business,Business,-0.6,Negative
+62,Rude staff at the gate.,3,Business,Economy,-0.3,Negative
+63,Wi-fi was fast and reliable.,9,Personal,Eco Plus,0.2,Positive
+64,The seat wouldn't recline.,5,Business,Business,0.0,Neutral
+65,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+66,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+67,Loved the meal options.,9,Personal,Economy,0.7,Positive
+68,Rude staff at the gate.,4,Personal,Economy,-0.3,Negative
+69,The seat wouldn't recline.,3,Personal,Economy,0.0,Neutral
+70,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+71,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+72,The food was cold.,3,Personal,Business,-0.6,Negative
+73,Clean plane and friendly staff.,8,Business,Business,0.37083333333333335,Positive
+74,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+75,No legroom at all.,1,Personal,Economy,0.0,Neutral
+76,The seat wouldn't recline.,5,Personal,Eco Plus,0.0,Neutral
+77,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+78,The food was cold.,4,Business,Economy,-0.6,Negative
+79,The seat wouldn't recline.,4,Business,Eco Plus,0.0,Neutral
+80,No legroom at all.,2,Personal,Eco Plus,0.0,Neutral
+81,Wi-fi was fast and reliable.,7,Personal,Eco Plus,0.2,Positive
+82,Clean plane and friendly staff.,8,Personal,Business,0.37083333333333335,Positive
+83,No legroom at all.,3,Personal,Economy,0.0,Neutral
+84,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+85,Clean plane and friendly staff.,7,Personal,Business,0.37083333333333335,Positive
+86,Loved the meal options.,10,Business,Business,0.7,Positive
+87,Clean plane and friendly staff.,9,Business,Eco Plus,0.37083333333333335,Positive
+88,Great legroom in economy.,9,Personal,Economy,0.8,Positive
+89,The seat wouldn't recline.,1,Personal,Economy,0.0,Neutral
+90,No legroom at all.,1,Business,Business,0.0,Neutral
+91,The seat wouldn't recline.,1,Personal,Economy,0.0,Neutral
+92,Lost my bags again.,5,Personal,Economy,0.0,Neutral
+93,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+94,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+95,The seat wouldn't recline.,4,Business,Business,0.0,Neutral
+96,Smooth boarding process.,9,Personal,Economy,0.4,Positive
+97,Smooth boarding process.,9,Personal,Business,0.4,Positive
+98,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+99,Wi-fi didn't work the whole flight.,2,Personal,Economy,0.2,Positive
+100,Smooth boarding process.,10,Personal,Eco Plus,0.4,Positive
+101,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+102,Loved the meal options.,8,Business,Economy,0.7,Positive
+103,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+104,Great legroom in economy.,9,Personal,Economy,0.8,Positive
+105,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+106,The cabin crew was amazing!,8,Personal,Economy,0.7500000000000001,Positive
+107,Great legroom in economy.,8,Personal,Eco Plus,0.8,Positive
+108,Rude staff at the gate.,2,Business,Business,-0.3,Negative
+109,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+110,The cabin crew was amazing!,10,Personal,Economy,0.7500000000000001,Positive
+111,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+112,The seat wouldn't recline.,5,Personal,Economy,0.0,Neutral
+113,The cabin crew was amazing!,9,Business,Business,0.7500000000000001,Positive
+114,Clean plane and friendly staff.,10,Personal,Economy,0.37083333333333335,Positive
+115,Wi-fi didn't work the whole flight.,3,Business,Economy,0.2,Positive
+116,Loved the meal options.,7,Business,Business,0.7,Positive
+117,Loved the meal options.,9,Personal,Eco Plus,0.7,Positive
+118,Lost my bags again.,3,Personal,Economy,0.0,Neutral
+119,Smooth boarding process.,10,Business,Eco Plus,0.4,Positive
+120,Smooth boarding process.,7,Personal,Business,0.4,Positive
+121,No legroom at all.,5,Business,Eco Plus,0.0,Neutral
+122,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+123,Loved the meal options.,7,Business,Business,0.7,Positive
+124,Lost my bags again.,2,Business,Business,0.0,Neutral
+125,Great legroom in economy.,7,Business,Economy,0.8,Positive
+126,Lost my bags again.,1,Personal,Economy,0.0,Neutral
+127,The cabin crew was amazing!,7,Personal,Business,0.7500000000000001,Positive
+128,Wi-fi was fast and reliable.,7,Personal,Business,0.2,Positive
+129,Great legroom in economy.,8,Business,Eco Plus,0.8,Positive
+130,Smooth boarding process.,7,Personal,Business,0.4,Positive
+131,Rude staff at the gate.,5,Business,Economy,-0.3,Negative
+132,Wi-fi was fast and reliable.,7,Personal,Business,0.2,Positive
+133,Loved the meal options.,7,Business,Economy,0.7,Positive
+134,The seat wouldn't recline.,2,Personal,Economy,0.0,Neutral
+135,Smooth boarding process.,9,Business,Business,0.4,Positive
+136,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+137,The cabin crew was amazing!,8,Business,Economy,0.7500000000000001,Positive
+138,The food was cold.,5,Personal,Business,-0.6,Negative
+139,The food was cold.,3,Personal,Business,-0.6,Negative
+140,Clean plane and friendly staff.,10,Personal,Economy,0.37083333333333335,Positive
+141,Rude staff at the gate.,4,Personal,Business,-0.3,Negative
+142,Rude staff at the gate.,4,Business,Economy,-0.3,Negative
+143,Wi-fi didn't work the whole flight.,1,Business,Economy,0.2,Positive
+144,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+145,Wi-fi didn't work the whole flight.,5,Personal,Business,0.2,Positive
+146,Smooth boarding process.,9,Business,Business,0.4,Positive
+147,The seat wouldn't recline.,2,Business,Economy,0.0,Neutral
+148,The food was cold.,1,Personal,Eco Plus,-0.6,Negative
+149,Lost my bags again.,2,Business,Economy,0.0,Neutral
+150,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+151,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+152,The seat wouldn't recline.,4,Business,Economy,0.0,Neutral
+153,Clean plane and friendly staff.,9,Business,Eco Plus,0.37083333333333335,Positive
+154,Smooth boarding process.,8,Personal,Eco Plus,0.4,Positive
+155,The seat wouldn't recline.,1,Personal,Economy,0.0,Neutral
+156,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+157,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+158,Great legroom in economy.,8,Personal,Eco Plus,0.8,Positive
+159,Loved the meal options.,7,Personal,Economy,0.7,Positive
+160,Wi-fi didn't work the whole flight.,1,Business,Eco Plus,0.2,Positive
+161,Lost my bags again.,5,Personal,Business,0.0,Neutral
+162,Clean plane and friendly staff.,10,Personal,Business,0.37083333333333335,Positive
+163,No legroom at all.,2,Personal,Eco Plus,0.0,Neutral
+164,Great legroom in economy.,10,Business,Business,0.8,Positive
+165,Loved the meal options.,8,Business,Business,0.7,Positive
+166,Smooth boarding process.,7,Personal,Business,0.4,Positive
+167,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+168,Smooth boarding process.,8,Business,Business,0.4,Positive
+169,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+170,Wi-fi was fast and reliable.,8,Personal,Economy,0.2,Positive
+171,Wi-fi was fast and reliable.,9,Business,Business,0.2,Positive
+172,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+173,No legroom at all.,5,Personal,Economy,0.0,Neutral
+174,Smooth boarding process.,7,Personal,Business,0.4,Positive
+175,The cabin crew was amazing!,8,Personal,Economy,0.7500000000000001,Positive
+176,No legroom at all.,1,Business,Economy,0.0,Neutral
+177,Clean plane and friendly staff.,9,Business,Economy,0.37083333333333335,Positive
+178,Rude staff at the gate.,1,Personal,Economy,-0.3,Negative
+179,Loved the meal options.,9,Business,Eco Plus,0.7,Positive
+180,Clean plane and friendly staff.,8,Personal,Eco Plus,0.37083333333333335,Positive
+181,Great legroom in economy.,7,Personal,Business,0.8,Positive
+182,Wi-fi didn't work the whole flight.,3,Business,Eco Plus,0.2,Positive
+183,Loved the meal options.,7,Personal,Business,0.7,Positive
+184,Wi-fi didn't work the whole flight.,1,Business,Economy,0.2,Positive
+185,The food was cold.,1,Business,Business,-0.6,Negative
+186,Rude staff at the gate.,1,Business,Economy,-0.3,Negative
+187,Loved the meal options.,8,Business,Economy,0.7,Positive
+188,Loved the meal options.,9,Personal,Business,0.7,Positive
+189,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+190,The seat wouldn't recline.,4,Personal,Business,0.0,Neutral
+191,Wi-fi didn't work the whole flight.,5,Personal,Economy,0.2,Positive
+192,Smooth boarding process.,8,Business,Business,0.4,Positive
+193,Rude staff at the gate.,3,Personal,Business,-0.3,Negative
+194,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+195,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+196,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+197,The cabin crew was amazing!,8,Personal,Business,0.7500000000000001,Positive
+198,The cabin crew was amazing!,8,Business,Eco Plus,0.7500000000000001,Positive
+199,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+200,The seat wouldn't recline.,4,Business,Economy,0.0,Neutral
+201,Loved the meal options.,9,Business,Business,0.7,Positive
+202,Clean plane and friendly staff.,7,Personal,Eco Plus,0.37083333333333335,Positive
+203,Smooth boarding process.,9,Business,Economy,0.4,Positive
+204,No legroom at all.,5,Business,Business,0.0,Neutral
+205,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+206,The food was cold.,1,Business,Eco Plus,-0.6,Negative
+207,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+208,Lost my bags again.,4,Personal,Business,0.0,Neutral
+209,Wi-fi didn't work the whole flight.,1,Personal,Eco Plus,0.2,Positive
+210,The seat wouldn't recline.,4,Personal,Economy,0.0,Neutral
+211,The food was cold.,5,Personal,Business,-0.6,Negative
+212,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+213,Clean plane and friendly staff.,10,Business,Economy,0.37083333333333335,Positive
+214,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+215,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+216,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+217,No legroom at all.,5,Personal,Eco Plus,0.0,Neutral
+218,Clean plane and friendly staff.,8,Business,Eco Plus,0.37083333333333335,Positive
+219,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+220,The cabin crew was amazing!,10,Personal,Eco Plus,0.7500000000000001,Positive
+221,Smooth boarding process.,8,Business,Economy,0.4,Positive
+222,Wi-fi was fast and reliable.,9,Business,Business,0.2,Positive
+223,No legroom at all.,2,Business,Eco Plus,0.0,Neutral
+224,Clean plane and friendly staff.,8,Business,Eco Plus,0.37083333333333335,Positive
+225,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+226,Smooth boarding process.,7,Business,Economy,0.4,Positive
+227,Wi-fi was fast and reliable.,9,Personal,Business,0.2,Positive
+228,Lost my bags again.,4,Business,Business,0.0,Neutral
+229,Clean plane and friendly staff.,8,Personal,Eco Plus,0.37083333333333335,Positive
+230,Clean plane and friendly staff.,9,Personal,Business,0.37083333333333335,Positive
+231,Clean plane and friendly staff.,8,Business,Economy,0.37083333333333335,Positive
+232,Rude staff at the gate.,3,Personal,Economy,-0.3,Negative
+233,Great legroom in economy.,7,Personal,Eco Plus,0.8,Positive
+234,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+235,Clean plane and friendly staff.,9,Business,Economy,0.37083333333333335,Positive
+236,Lost my bags again.,2,Personal,Business,0.0,Neutral
+237,The cabin crew was amazing!,9,Personal,Eco Plus,0.7500000000000001,Positive
+238,Lost my bags again.,1,Business,Economy,0.0,Neutral
+239,The food was cold.,5,Personal,Economy,-0.6,Negative
+240,Rude staff at the gate.,1,Personal,Eco Plus,-0.3,Negative
+241,Great legroom in economy.,9,Personal,Eco Plus,0.8,Positive
+242,Wi-fi was fast and reliable.,9,Personal,Eco Plus,0.2,Positive
+243,The food was cold.,4,Personal,Economy,-0.6,Negative
+244,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+245,Loved the meal options.,8,Business,Economy,0.7,Positive
+246,Rude staff at the gate.,1,Business,Business,-0.3,Negative
+247,Smooth boarding process.,10,Business,Eco Plus,0.4,Positive
+248,Smooth boarding process.,8,Business,Eco Plus,0.4,Positive
+249,Wi-fi didn't work the whole flight.,5,Business,Economy,0.2,Positive
+250,Wi-fi didn't work the whole flight.,2,Business,Business,0.2,Positive
+251,Great legroom in economy.,8,Personal,Economy,0.8,Positive
+252,Clean plane and friendly staff.,9,Business,Economy,0.37083333333333335,Positive
+253,Wi-fi didn't work the whole flight.,2,Personal,Eco Plus,0.2,Positive
+254,Loved the meal options.,7,Business,Eco Plus,0.7,Positive
+255,No legroom at all.,5,Personal,Economy,0.0,Neutral
+256,Wi-fi was fast and reliable.,10,Business,Eco Plus,0.2,Positive
+257,Clean plane and friendly staff.,7,Business,Economy,0.37083333333333335,Positive
+258,The food was cold.,4,Business,Business,-0.6,Negative
+259,Clean plane and friendly staff.,10,Personal,Business,0.37083333333333335,Positive
+260,Loved the meal options.,10,Business,Business,0.7,Positive
+261,No legroom at all.,2,Business,Economy,0.0,Neutral
+262,Wi-fi didn't work the whole flight.,5,Business,Economy,0.2,Positive
+263,Great legroom in economy.,7,Business,Economy,0.8,Positive
+264,No legroom at all.,2,Business,Eco Plus,0.0,Neutral
+265,Rude staff at the gate.,5,Business,Business,-0.3,Negative
+266,The cabin crew was amazing!,8,Business,Eco Plus,0.7500000000000001,Positive
+267,Clean plane and friendly staff.,10,Personal,Economy,0.37083333333333335,Positive
+268,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+269,The cabin crew was amazing!,8,Business,Business,0.7500000000000001,Positive
+270,The cabin crew was amazing!,8,Personal,Eco Plus,0.7500000000000001,Positive
+271,Great legroom in economy.,8,Business,Economy,0.8,Positive
+272,Smooth boarding process.,9,Personal,Business,0.4,Positive
+273,Great legroom in economy.,10,Business,Business,0.8,Positive
+274,Lost my bags again.,1,Personal,Business,0.0,Neutral
+275,Smooth boarding process.,8,Personal,Economy,0.4,Positive
+276,The seat wouldn't recline.,3,Personal,Business,0.0,Neutral
+277,The cabin crew was amazing!,7,Business,Business,0.7500000000000001,Positive
+278,Great legroom in economy.,7,Personal,Business,0.8,Positive
+279,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+280,Lost my bags again.,4,Business,Business,0.0,Neutral
+281,Wi-fi didn't work the whole flight.,3,Personal,Economy,0.2,Positive
+282,Wi-fi was fast and reliable.,8,Personal,Eco Plus,0.2,Positive
+283,Clean plane and friendly staff.,8,Business,Economy,0.37083333333333335,Positive
+284,Rude staff at the gate.,3,Business,Eco Plus,-0.3,Negative
+285,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+286,Great legroom in economy.,7,Business,Economy,0.8,Positive
+287,The food was cold.,1,Business,Eco Plus,-0.6,Negative
+288,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+289,Rude staff at the gate.,4,Business,Business,-0.3,Negative
+290,Rude staff at the gate.,3,Business,Eco Plus,-0.3,Negative
+291,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+292,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+293,Smooth boarding process.,7,Business,Economy,0.4,Positive
+294,Clean plane and friendly staff.,10,Business,Business,0.37083333333333335,Positive
+295,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+296,Great legroom in economy.,10,Business,Economy,0.8,Positive
+297,Lost my bags again.,2,Business,Business,0.0,Neutral
+298,The food was cold.,3,Personal,Business,-0.6,Negative
+299,Smooth boarding process.,8,Business,Business,0.4,Positive
+300,Wi-fi didn't work the whole flight.,2,Business,Business,0.2,Positive
+301,Clean plane and friendly staff.,9,Personal,Eco Plus,0.37083333333333335,Positive
+302,Smooth boarding process.,8,Business,Economy,0.4,Positive
+303,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+304,The food was cold.,4,Business,Business,-0.6,Negative
+305,No legroom at all.,1,Personal,Economy,0.0,Neutral
+306,Clean plane and friendly staff.,8,Business,Eco Plus,0.37083333333333335,Positive
+307,Clean plane and friendly staff.,9,Business,Economy,0.37083333333333335,Positive
+308,Wi-fi was fast and reliable.,9,Business,Business,0.2,Positive
+309,The seat wouldn't recline.,1,Business,Business,0.0,Neutral
+310,The cabin crew was amazing!,10,Personal,Eco Plus,0.7500000000000001,Positive
+311,The seat wouldn't recline.,1,Business,Eco Plus,0.0,Neutral
+312,The cabin crew was amazing!,8,Business,Eco Plus,0.7500000000000001,Positive
+313,Clean plane and friendly staff.,8,Personal,Business,0.37083333333333335,Positive
+314,The food was cold.,1,Business,Business,-0.6,Negative
+315,The food was cold.,1,Personal,Eco Plus,-0.6,Negative
+316,Smooth boarding process.,7,Business,Business,0.4,Positive
+317,Clean plane and friendly staff.,10,Business,Business,0.37083333333333335,Positive
+318,The cabin crew was amazing!,9,Personal,Eco Plus,0.7500000000000001,Positive
+319,Smooth boarding process.,9,Personal,Economy,0.4,Positive
+320,Clean plane and friendly staff.,8,Business,Business,0.37083333333333335,Positive
+321,The food was cold.,1,Personal,Eco Plus,-0.6,Negative
+322,Smooth boarding process.,7,Personal,Eco Plus,0.4,Positive
+323,The food was cold.,3,Personal,Business,-0.6,Negative
+324,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+325,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+326,Lost my bags again.,1,Business,Business,0.0,Neutral
+327,Wi-fi was fast and reliable.,7,Personal,Eco Plus,0.2,Positive
+328,Lost my bags again.,1,Business,Economy,0.0,Neutral
+329,Great legroom in economy.,7,Business,Economy,0.8,Positive
+330,Wi-fi was fast and reliable.,8,Personal,Eco Plus,0.2,Positive
+331,Wi-fi didn't work the whole flight.,5,Personal,Business,0.2,Positive
+332,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+333,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+334,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+335,No legroom at all.,3,Business,Economy,0.0,Neutral
+336,Wi-fi was fast and reliable.,10,Personal,Economy,0.2,Positive
+337,The food was cold.,5,Business,Economy,-0.6,Negative
+338,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+339,Smooth boarding process.,9,Business,Business,0.4,Positive
+340,Great legroom in economy.,8,Personal,Eco Plus,0.8,Positive
+341,No legroom at all.,4,Personal,Business,0.0,Neutral
+342,Loved the meal options.,9,Personal,Economy,0.7,Positive
+343,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+344,Lost my bags again.,3,Personal,Business,0.0,Neutral
+345,No legroom at all.,1,Personal,Business,0.0,Neutral
+346,Rude staff at the gate.,5,Business,Business,-0.3,Negative
+347,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+348,Rude staff at the gate.,1,Personal,Business,-0.3,Negative
+349,No legroom at all.,3,Personal,Business,0.0,Neutral
+350,Smooth boarding process.,10,Personal,Eco Plus,0.4,Positive
+351,Lost my bags again.,4,Business,Economy,0.0,Neutral
+352,The seat wouldn't recline.,3,Business,Business,0.0,Neutral
+353,No legroom at all.,2,Business,Economy,0.0,Neutral
+354,The food was cold.,5,Business,Eco Plus,-0.6,Negative
+355,No legroom at all.,4,Personal,Eco Plus,0.0,Neutral
+356,The food was cold.,4,Personal,Economy,-0.6,Negative
+357,Smooth boarding process.,9,Personal,Business,0.4,Positive
+358,Smooth boarding process.,9,Business,Economy,0.4,Positive
+359,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+360,The food was cold.,4,Personal,Eco Plus,-0.6,Negative
+361,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+362,Lost my bags again.,5,Personal,Eco Plus,0.0,Neutral
+363,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+364,Loved the meal options.,7,Personal,Business,0.7,Positive
+365,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+366,The food was cold.,4,Personal,Economy,-0.6,Negative
+367,The food was cold.,4,Business,Business,-0.6,Negative
+368,Smooth boarding process.,8,Personal,Eco Plus,0.4,Positive
+369,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+370,Great legroom in economy.,8,Business,Eco Plus,0.8,Positive
+371,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+372,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+373,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+374,Clean plane and friendly staff.,8,Personal,Economy,0.37083333333333335,Positive
+375,Great legroom in economy.,10,Business,Business,0.8,Positive
+376,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+377,Great legroom in economy.,8,Business,Business,0.8,Positive
+378,Great legroom in economy.,8,Personal,Business,0.8,Positive
+379,Great legroom in economy.,9,Personal,Economy,0.8,Positive
+380,Smooth boarding process.,9,Business,Business,0.4,Positive
+381,The cabin crew was amazing!,9,Business,Economy,0.7500000000000001,Positive
+382,Great legroom in economy.,10,Personal,Business,0.8,Positive
+383,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+384,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+385,Great legroom in economy.,8,Business,Business,0.8,Positive
+386,Rude staff at the gate.,5,Business,Economy,-0.3,Negative
+387,Wi-fi was fast and reliable.,9,Personal,Economy,0.2,Positive
+388,Lost my bags again.,3,Personal,Business,0.0,Neutral
+389,Wi-fi didn't work the whole flight.,5,Personal,Economy,0.2,Positive
+390,Loved the meal options.,8,Business,Eco Plus,0.7,Positive
+391,The seat wouldn't recline.,1,Business,Economy,0.0,Neutral
+392,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+393,Rude staff at the gate.,4,Personal,Business,-0.3,Negative
+394,The cabin crew was amazing!,10,Personal,Economy,0.7500000000000001,Positive
+395,Rude staff at the gate.,2,Business,Business,-0.3,Negative
+396,Great legroom in economy.,9,Business,Business,0.8,Positive
+397,Loved the meal options.,9,Business,Business,0.7,Positive
+398,The cabin crew was amazing!,9,Personal,Business,0.7500000000000001,Positive
+399,Rude staff at the gate.,2,Business,Economy,-0.3,Negative
+400,Smooth boarding process.,7,Personal,Business,0.4,Positive
+401,Clean plane and friendly staff.,10,Business,Economy,0.37083333333333335,Positive
+402,Clean plane and friendly staff.,7,Business,Economy,0.37083333333333335,Positive
+403,Great legroom in economy.,9,Business,Economy,0.8,Positive
+404,Rude staff at the gate.,4,Business,Eco Plus,-0.3,Negative
+405,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+406,No legroom at all.,5,Personal,Business,0.0,Neutral
+407,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+408,The cabin crew was amazing!,10,Personal,Economy,0.7500000000000001,Positive
+409,Smooth boarding process.,10,Business,Economy,0.4,Positive
+410,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+411,Loved the meal options.,9,Business,Business,0.7,Positive
+412,The cabin crew was amazing!,9,Business,Business,0.7500000000000001,Positive
+413,Wi-fi didn't work the whole flight.,5,Business,Eco Plus,0.2,Positive
+414,The food was cold.,3,Personal,Business,-0.6,Negative
+415,No legroom at all.,3,Business,Business,0.0,Neutral
+416,Great legroom in economy.,7,Business,Eco Plus,0.8,Positive
+417,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+418,The seat wouldn't recline.,5,Personal,Business,0.0,Neutral
+419,No legroom at all.,5,Business,Eco Plus,0.0,Neutral
+420,Clean plane and friendly staff.,7,Business,Business,0.37083333333333335,Positive
+421,The food was cold.,2,Business,Business,-0.6,Negative
+422,No legroom at all.,1,Personal,Eco Plus,0.0,Neutral
+423,Loved the meal options.,9,Personal,Economy,0.7,Positive
+424,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+425,Smooth boarding process.,10,Business,Economy,0.4,Positive
+426,Rude staff at the gate.,2,Personal,Business,-0.3,Negative
+427,The food was cold.,1,Business,Economy,-0.6,Negative
+428,Smooth boarding process.,9,Business,Eco Plus,0.4,Positive
+429,Smooth boarding process.,8,Personal,Business,0.4,Positive
+430,Great legroom in economy.,8,Business,Economy,0.8,Positive
+431,Lost my bags again.,3,Business,Business,0.0,Neutral
+432,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+433,Lost my bags again.,3,Personal,Economy,0.0,Neutral
+434,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+435,No legroom at all.,3,Business,Business,0.0,Neutral
+436,Great legroom in economy.,8,Business,Eco Plus,0.8,Positive
+437,Great legroom in economy.,8,Personal,Economy,0.8,Positive
+438,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+439,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+440,Clean plane and friendly staff.,8,Personal,Eco Plus,0.37083333333333335,Positive
+441,Smooth boarding process.,9,Business,Eco Plus,0.4,Positive
+442,Smooth boarding process.,10,Business,Economy,0.4,Positive
+443,Wi-fi was fast and reliable.,9,Personal,Economy,0.2,Positive
+444,Wi-fi was fast and reliable.,8,Personal,Economy,0.2,Positive
+445,Smooth boarding process.,10,Personal,Eco Plus,0.4,Positive
+446,Loved the meal options.,9,Personal,Business,0.7,Positive
+447,Great legroom in economy.,8,Business,Economy,0.8,Positive
+448,The cabin crew was amazing!,8,Business,Eco Plus,0.7500000000000001,Positive
+449,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+450,The cabin crew was amazing!,8,Business,Business,0.7500000000000001,Positive
+451,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+452,Loved the meal options.,10,Business,Business,0.7,Positive
+453,Lost my bags again.,5,Personal,Economy,0.0,Neutral
+454,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+455,The cabin crew was amazing!,8,Business,Economy,0.7500000000000001,Positive
+456,Wi-fi didn't work the whole flight.,4,Personal,Eco Plus,0.2,Positive
+457,Great legroom in economy.,9,Personal,Business,0.8,Positive
+458,Great legroom in economy.,7,Business,Economy,0.8,Positive
+459,Great legroom in economy.,7,Business,Economy,0.8,Positive
+460,Lost my bags again.,3,Personal,Eco Plus,0.0,Neutral
+461,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+462,Clean plane and friendly staff.,7,Personal,Eco Plus,0.37083333333333335,Positive
+463,Great legroom in economy.,9,Personal,Business,0.8,Positive
+464,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+465,The seat wouldn't recline.,3,Personal,Business,0.0,Neutral
+466,Lost my bags again.,4,Personal,Economy,0.0,Neutral
+467,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+468,The food was cold.,4,Business,Economy,-0.6,Negative
+469,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+470,Clean plane and friendly staff.,10,Personal,Eco Plus,0.37083333333333335,Positive
+471,Smooth boarding process.,8,Business,Business,0.4,Positive
+472,Loved the meal options.,8,Personal,Economy,0.7,Positive
+473,Clean plane and friendly staff.,10,Personal,Business,0.37083333333333335,Positive
+474,Loved the meal options.,7,Business,Economy,0.7,Positive
+475,The cabin crew was amazing!,9,Personal,Business,0.7500000000000001,Positive
+476,The food was cold.,4,Business,Eco Plus,-0.6,Negative
+477,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+478,Lost my bags again.,4,Personal,Economy,0.0,Neutral
+479,Smooth boarding process.,10,Personal,Business,0.4,Positive
+480,The food was cold.,5,Personal,Business,-0.6,Negative
+481,Lost my bags again.,4,Business,Eco Plus,0.0,Neutral
+482,No legroom at all.,1,Business,Business,0.0,Neutral
+483,The cabin crew was amazing!,7,Business,Eco Plus,0.7500000000000001,Positive
+484,No legroom at all.,4,Personal,Eco Plus,0.0,Neutral
+485,The seat wouldn't recline.,3,Business,Business,0.0,Neutral
+486,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+487,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+488,Great legroom in economy.,8,Personal,Business,0.8,Positive
+489,Rude staff at the gate.,1,Business,Economy,-0.3,Negative
+490,Wi-fi didn't work the whole flight.,2,Business,Business,0.2,Positive
+491,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+492,Smooth boarding process.,8,Business,Eco Plus,0.4,Positive
+493,Clean plane and friendly staff.,10,Personal,Business,0.37083333333333335,Positive
+494,Wi-fi didn't work the whole flight.,3,Business,Business,0.2,Positive
+495,Lost my bags again.,2,Personal,Economy,0.0,Neutral
+496,The food was cold.,4,Business,Economy,-0.6,Negative
+497,Loved the meal options.,8,Business,Eco Plus,0.7,Positive
+498,Smooth boarding process.,9,Personal,Business,0.4,Positive
+499,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+500,Great legroom in economy.,7,Personal,Business,0.8,Positive
+501,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+502,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+503,The seat wouldn't recline.,3,Business,Economy,0.0,Neutral
+504,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+505,Loved the meal options.,8,Business,Business,0.7,Positive
+506,Rude staff at the gate.,5,Business,Eco Plus,-0.3,Negative
+507,Clean plane and friendly staff.,8,Business,Economy,0.37083333333333335,Positive
+508,Lost my bags again.,2,Personal,Eco Plus,0.0,Neutral
+509,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+510,Smooth boarding process.,7,Business,Economy,0.4,Positive
+511,Smooth boarding process.,7,Business,Business,0.4,Positive
+512,Rude staff at the gate.,1,Business,Economy,-0.3,Negative
+513,Smooth boarding process.,10,Personal,Eco Plus,0.4,Positive
+514,The seat wouldn't recline.,4,Personal,Business,0.0,Neutral
+515,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+516,Smooth boarding process.,8,Business,Economy,0.4,Positive
+517,The cabin crew was amazing!,10,Business,Economy,0.7500000000000001,Positive
+518,Loved the meal options.,10,Business,Economy,0.7,Positive
+519,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+520,Great legroom in economy.,10,Business,Business,0.8,Positive
+521,The cabin crew was amazing!,10,Business,Economy,0.7500000000000001,Positive
+522,Rude staff at the gate.,1,Business,Economy,-0.3,Negative
+523,The food was cold.,3,Business,Economy,-0.6,Negative
+524,Wi-fi was fast and reliable.,10,Business,Economy,0.2,Positive
+525,Great legroom in economy.,9,Personal,Eco Plus,0.8,Positive
+526,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+527,Lost my bags again.,5,Personal,Business,0.0,Neutral
+528,Great legroom in economy.,8,Business,Economy,0.8,Positive
+529,The food was cold.,1,Personal,Eco Plus,-0.6,Negative
+530,The food was cold.,4,Personal,Business,-0.6,Negative
+531,The food was cold.,2,Business,Business,-0.6,Negative
+532,Great legroom in economy.,7,Personal,Eco Plus,0.8,Positive
+533,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+534,Loved the meal options.,8,Business,Business,0.7,Positive
+535,No legroom at all.,1,Business,Eco Plus,0.0,Neutral
+536,Great legroom in economy.,7,Personal,Business,0.8,Positive
+537,Rude staff at the gate.,5,Personal,Eco Plus,-0.3,Negative
+538,Smooth boarding process.,9,Personal,Business,0.4,Positive
+539,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+540,Lost my bags again.,5,Personal,Business,0.0,Neutral
+541,Loved the meal options.,10,Business,Business,0.7,Positive
+542,The cabin crew was amazing!,8,Personal,Economy,0.7500000000000001,Positive
+543,Great legroom in economy.,7,Business,Eco Plus,0.8,Positive
+544,No legroom at all.,3,Business,Economy,0.0,Neutral
+545,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+546,Wi-fi didn't work the whole flight.,5,Personal,Eco Plus,0.2,Positive
+547,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+548,No legroom at all.,1,Personal,Economy,0.0,Neutral
+549,Loved the meal options.,10,Business,Business,0.7,Positive
+550,The cabin crew was amazing!,8,Business,Business,0.7500000000000001,Positive
+551,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+552,Loved the meal options.,8,Personal,Business,0.7,Positive
+553,Loved the meal options.,7,Personal,Business,0.7,Positive
+554,Smooth boarding process.,7,Personal,Eco Plus,0.4,Positive
+555,Clean plane and friendly staff.,10,Business,Economy,0.37083333333333335,Positive
+556,Lost my bags again.,4,Personal,Business,0.0,Neutral
+557,Wi-fi was fast and reliable.,8,Business,Business,0.2,Positive
+558,Smooth boarding process.,8,Personal,Business,0.4,Positive
+559,The food was cold.,5,Personal,Economy,-0.6,Negative
+560,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+561,No legroom at all.,4,Personal,Business,0.0,Neutral
+562,Clean plane and friendly staff.,8,Business,Eco Plus,0.37083333333333335,Positive
+563,Wi-fi didn't work the whole flight.,1,Business,Business,0.2,Positive
+564,Lost my bags again.,4,Personal,Business,0.0,Neutral
+565,Loved the meal options.,10,Business,Economy,0.7,Positive
+566,The food was cold.,1,Personal,Eco Plus,-0.6,Negative
+567,Wi-fi didn't work the whole flight.,4,Business,Eco Plus,0.2,Positive
+568,Loved the meal options.,8,Business,Economy,0.7,Positive
+569,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+570,The seat wouldn't recline.,4,Business,Eco Plus,0.0,Neutral
+571,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+572,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+573,Clean plane and friendly staff.,7,Personal,Economy,0.37083333333333335,Positive
+574,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+575,Great legroom in economy.,9,Business,Economy,0.8,Positive
+576,Loved the meal options.,7,Business,Business,0.7,Positive
+577,Loved the meal options.,8,Personal,Business,0.7,Positive
+578,Great legroom in economy.,9,Business,Economy,0.8,Positive
+579,The food was cold.,4,Personal,Economy,-0.6,Negative
+580,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+581,No legroom at all.,4,Business,Eco Plus,0.0,Neutral
+582,The seat wouldn't recline.,2,Personal,Business,0.0,Neutral
+583,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+584,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+585,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+586,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+587,Wi-fi was fast and reliable.,10,Personal,Eco Plus,0.2,Positive
+588,Smooth boarding process.,8,Personal,Business,0.4,Positive
+589,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+590,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+591,The cabin crew was amazing!,7,Personal,Economy,0.7500000000000001,Positive
+592,The food was cold.,2,Business,Eco Plus,-0.6,Negative
+593,The seat wouldn't recline.,1,Business,Economy,0.0,Neutral
+594,Rude staff at the gate.,2,Business,Economy,-0.3,Negative
+595,The cabin crew was amazing!,7,Personal,Business,0.7500000000000001,Positive
+596,No legroom at all.,1,Personal,Economy,0.0,Neutral
+597,The seat wouldn't recline.,1,Personal,Business,0.0,Neutral
+598,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+599,The seat wouldn't recline.,4,Business,Business,0.0,Neutral
+600,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+601,Great legroom in economy.,9,Personal,Business,0.8,Positive
+602,Smooth boarding process.,9,Personal,Business,0.4,Positive
+603,The food was cold.,2,Personal,Business,-0.6,Negative
+604,Great legroom in economy.,7,Personal,Business,0.8,Positive
+605,Rude staff at the gate.,1,Personal,Eco Plus,-0.3,Negative
+606,Rude staff at the gate.,1,Business,Business,-0.3,Negative
+607,Lost my bags again.,3,Business,Business,0.0,Neutral
+608,Rude staff at the gate.,4,Business,Economy,-0.3,Negative
+609,The cabin crew was amazing!,9,Business,Business,0.7500000000000001,Positive
+610,Great legroom in economy.,10,Personal,Business,0.8,Positive
+611,Wi-fi was fast and reliable.,7,Business,Eco Plus,0.2,Positive
+612,The seat wouldn't recline.,1,Personal,Economy,0.0,Neutral
+613,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+614,The seat wouldn't recline.,3,Personal,Economy,0.0,Neutral
+615,Clean plane and friendly staff.,9,Personal,Economy,0.37083333333333335,Positive
+616,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+617,Rude staff at the gate.,2,Business,Eco Plus,-0.3,Negative
+618,Wi-fi didn't work the whole flight.,5,Business,Eco Plus,0.2,Positive
+619,The cabin crew was amazing!,10,Personal,Business,0.7500000000000001,Positive
+620,Lost my bags again.,3,Business,Economy,0.0,Neutral
+621,The seat wouldn't recline.,2,Personal,Eco Plus,0.0,Neutral
+622,The cabin crew was amazing!,9,Personal,Eco Plus,0.7500000000000001,Positive
+623,The cabin crew was amazing!,7,Personal,Business,0.7500000000000001,Positive
+624,Loved the meal options.,10,Personal,Business,0.7,Positive
+625,Rude staff at the gate.,2,Personal,Economy,-0.3,Negative
+626,Rude staff at the gate.,2,Business,Eco Plus,-0.3,Negative
+627,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+628,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+629,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+630,Great legroom in economy.,9,Personal,Eco Plus,0.8,Positive
+631,The food was cold.,4,Personal,Economy,-0.6,Negative
+632,Wi-fi was fast and reliable.,10,Personal,Economy,0.2,Positive
+633,Lost my bags again.,3,Business,Economy,0.0,Neutral
+634,Loved the meal options.,8,Personal,Economy,0.7,Positive
+635,Wi-fi was fast and reliable.,10,Business,Eco Plus,0.2,Positive
+636,The food was cold.,3,Business,Eco Plus,-0.6,Negative
+637,No legroom at all.,4,Business,Business,0.0,Neutral
+638,The seat wouldn't recline.,3,Personal,Economy,0.0,Neutral
+639,The seat wouldn't recline.,2,Personal,Eco Plus,0.0,Neutral
+640,The food was cold.,3,Personal,Eco Plus,-0.6,Negative
+641,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+642,The cabin crew was amazing!,9,Personal,Eco Plus,0.7500000000000001,Positive
+643,Wi-fi was fast and reliable.,9,Personal,Business,0.2,Positive
+644,Lost my bags again.,5,Personal,Economy,0.0,Neutral
+645,The food was cold.,4,Business,Business,-0.6,Negative
+646,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+647,Loved the meal options.,9,Personal,Business,0.7,Positive
+648,Clean plane and friendly staff.,8,Business,Eco Plus,0.37083333333333335,Positive
+649,Smooth boarding process.,8,Business,Business,0.4,Positive
+650,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+651,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+652,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+653,Loved the meal options.,9,Business,Business,0.7,Positive
+654,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+655,Loved the meal options.,8,Personal,Business,0.7,Positive
+656,The cabin crew was amazing!,9,Personal,Economy,0.7500000000000001,Positive
+657,Lost my bags again.,3,Personal,Economy,0.0,Neutral
+658,Loved the meal options.,9,Business,Business,0.7,Positive
+659,Wi-fi was fast and reliable.,8,Personal,Business,0.2,Positive
+660,Wi-fi didn't work the whole flight.,1,Business,Eco Plus,0.2,Positive
+661,Clean plane and friendly staff.,7,Personal,Economy,0.37083333333333335,Positive
+662,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+663,The food was cold.,1,Business,Economy,-0.6,Negative
+664,Clean plane and friendly staff.,9,Personal,Economy,0.37083333333333335,Positive
+665,The cabin crew was amazing!,7,Business,Business,0.7500000000000001,Positive
+666,The cabin crew was amazing!,8,Personal,Eco Plus,0.7500000000000001,Positive
+667,The cabin crew was amazing!,8,Business,Economy,0.7500000000000001,Positive
+668,Clean plane and friendly staff.,8,Business,Business,0.37083333333333335,Positive
+669,The cabin crew was amazing!,10,Business,Economy,0.7500000000000001,Positive
+670,Smooth boarding process.,9,Business,Eco Plus,0.4,Positive
+671,Smooth boarding process.,10,Business,Business,0.4,Positive
+672,Smooth boarding process.,9,Personal,Economy,0.4,Positive
+673,Rude staff at the gate.,3,Personal,Economy,-0.3,Negative
+674,Loved the meal options.,7,Personal,Economy,0.7,Positive
+675,Loved the meal options.,8,Business,Economy,0.7,Positive
+676,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+677,Rude staff at the gate.,2,Personal,Business,-0.3,Negative
+678,The cabin crew was amazing!,9,Personal,Business,0.7500000000000001,Positive
+679,Rude staff at the gate.,4,Business,Economy,-0.3,Negative
+680,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+681,Smooth boarding process.,7,Personal,Business,0.4,Positive
+682,Smooth boarding process.,8,Personal,Business,0.4,Positive
+683,The food was cold.,1,Business,Eco Plus,-0.6,Negative
+684,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+685,The seat wouldn't recline.,2,Business,Economy,0.0,Neutral
+686,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+687,Great legroom in economy.,7,Business,Business,0.8,Positive
+688,The cabin crew was amazing!,9,Personal,Economy,0.7500000000000001,Positive
+689,Lost my bags again.,3,Personal,Eco Plus,0.0,Neutral
+690,The food was cold.,5,Personal,Business,-0.6,Negative
+691,Loved the meal options.,8,Personal,Eco Plus,0.7,Positive
+692,Loved the meal options.,9,Business,Eco Plus,0.7,Positive
+693,Wi-fi didn't work the whole flight.,2,Business,Economy,0.2,Positive
+694,Rude staff at the gate.,1,Personal,Eco Plus,-0.3,Negative
+695,Loved the meal options.,7,Business,Economy,0.7,Positive
+696,The cabin crew was amazing!,9,Personal,Eco Plus,0.7500000000000001,Positive
+697,Rude staff at the gate.,2,Personal,Eco Plus,-0.3,Negative
+698,Wi-fi didn't work the whole flight.,3,Business,Economy,0.2,Positive
+699,Smooth boarding process.,10,Personal,Business,0.4,Positive
+700,Loved the meal options.,7,Business,Business,0.7,Positive
+701,Wi-fi was fast and reliable.,9,Business,Economy,0.2,Positive
+702,Wi-fi didn't work the whole flight.,3,Personal,Eco Plus,0.2,Positive
+703,No legroom at all.,3,Business,Eco Plus,0.0,Neutral
+704,Great legroom in economy.,7,Personal,Economy,0.8,Positive
+705,Rude staff at the gate.,5,Business,Eco Plus,-0.3,Negative
+706,Great legroom in economy.,10,Business,Economy,0.8,Positive
+707,Wi-fi didn't work the whole flight.,4,Business,Economy,0.2,Positive
+708,Clean plane and friendly staff.,10,Business,Economy,0.37083333333333335,Positive
+709,Smooth boarding process.,8,Business,Business,0.4,Positive
+710,Wi-fi didn't work the whole flight.,3,Personal,Business,0.2,Positive
+711,Wi-fi didn't work the whole flight.,2,Business,Economy,0.2,Positive
+712,Rude staff at the gate.,5,Personal,Eco Plus,-0.3,Negative
+713,Wi-fi was fast and reliable.,7,Personal,Eco Plus,0.2,Positive
+714,Wi-fi didn't work the whole flight.,5,Business,Business,0.2,Positive
+715,Wi-fi was fast and reliable.,7,Business,Eco Plus,0.2,Positive
+716,Clean plane and friendly staff.,7,Personal,Business,0.37083333333333335,Positive
+717,Smooth boarding process.,10,Personal,Economy,0.4,Positive
+718,Loved the meal options.,8,Business,Eco Plus,0.7,Positive
+719,Smooth boarding process.,8,Business,Business,0.4,Positive
+720,Loved the meal options.,8,Business,Business,0.7,Positive
+721,Loved the meal options.,7,Business,Economy,0.7,Positive
+722,Loved the meal options.,8,Business,Eco Plus,0.7,Positive
+723,Loved the meal options.,10,Personal,Business,0.7,Positive
+724,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+725,Wi-fi didn't work the whole flight.,3,Personal,Economy,0.2,Positive
+726,The food was cold.,3,Business,Business,-0.6,Negative
+727,Loved the meal options.,9,Business,Eco Plus,0.7,Positive
+728,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+729,Rude staff at the gate.,5,Business,Economy,-0.3,Negative
+730,Wi-fi was fast and reliable.,9,Personal,Eco Plus,0.2,Positive
+731,Smooth boarding process.,9,Personal,Economy,0.4,Positive
+732,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+733,Wi-fi didn't work the whole flight.,2,Personal,Business,0.2,Positive
+734,Loved the meal options.,8,Business,Eco Plus,0.7,Positive
+735,The food was cold.,3,Business,Business,-0.6,Negative
+736,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+737,The food was cold.,4,Business,Economy,-0.6,Negative
+738,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+739,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+740,The cabin crew was amazing!,8,Personal,Business,0.7500000000000001,Positive
+741,Clean plane and friendly staff.,9,Personal,Eco Plus,0.37083333333333335,Positive
+742,Wi-fi didn't work the whole flight.,4,Business,Economy,0.2,Positive
+743,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+744,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+745,Loved the meal options.,10,Personal,Business,0.7,Positive
+746,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+747,Clean plane and friendly staff.,10,Personal,Eco Plus,0.37083333333333335,Positive
+748,Smooth boarding process.,9,Business,Eco Plus,0.4,Positive
+749,The food was cold.,5,Business,Economy,-0.6,Negative
+750,Wi-fi didn't work the whole flight.,1,Business,Business,0.2,Positive
+751,The seat wouldn't recline.,2,Personal,Business,0.0,Neutral
+752,No legroom at all.,2,Personal,Business,0.0,Neutral
+753,Clean plane and friendly staff.,8,Business,Economy,0.37083333333333335,Positive
+754,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+755,No legroom at all.,2,Business,Eco Plus,0.0,Neutral
+756,The food was cold.,1,Business,Economy,-0.6,Negative
+757,Great legroom in economy.,8,Personal,Business,0.8,Positive
+758,Great legroom in economy.,10,Business,Business,0.8,Positive
+759,The food was cold.,5,Personal,Eco Plus,-0.6,Negative
+760,Wi-fi was fast and reliable.,9,Business,Eco Plus,0.2,Positive
+761,Loved the meal options.,10,Personal,Eco Plus,0.7,Positive
+762,Wi-fi was fast and reliable.,7,Personal,Eco Plus,0.2,Positive
+763,No legroom at all.,2,Business,Economy,0.0,Neutral
+764,The cabin crew was amazing!,10,Business,Business,0.7500000000000001,Positive
+765,Lost my bags again.,5,Business,Economy,0.0,Neutral
+766,Rude staff at the gate.,3,Business,Eco Plus,-0.3,Negative
+767,The cabin crew was amazing!,7,Personal,Eco Plus,0.7500000000000001,Positive
+768,Smooth boarding process.,8,Business,Economy,0.4,Positive
+769,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+770,Great legroom in economy.,10,Personal,Eco Plus,0.8,Positive
+771,Rude staff at the gate.,1,Business,Business,-0.3,Negative
+772,Loved the meal options.,9,Personal,Economy,0.7,Positive
+773,Wi-fi was fast and reliable.,8,Personal,Business,0.2,Positive
+774,Lost my bags again.,5,Business,Business,0.0,Neutral
+775,Rude staff at the gate.,2,Business,Business,-0.3,Negative
+776,Smooth boarding process.,10,Personal,Business,0.4,Positive
+777,Rude staff at the gate.,5,Personal,Eco Plus,-0.3,Negative
+778,The food was cold.,1,Personal,Business,-0.6,Negative
+779,Loved the meal options.,9,Business,Business,0.7,Positive
+780,Lost my bags again.,2,Personal,Economy,0.0,Neutral
+781,No legroom at all.,3,Business,Eco Plus,0.0,Neutral
+782,The cabin crew was amazing!,10,Personal,Economy,0.7500000000000001,Positive
+783,Loved the meal options.,8,Personal,Business,0.7,Positive
+784,Loved the meal options.,9,Personal,Eco Plus,0.7,Positive
+785,Rude staff at the gate.,2,Personal,Eco Plus,-0.3,Negative
+786,Great legroom in economy.,9,Business,Business,0.8,Positive
+787,Lost my bags again.,5,Business,Economy,0.0,Neutral
+788,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+789,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+790,Wi-fi was fast and reliable.,10,Business,Eco Plus,0.2,Positive
+791,Smooth boarding process.,8,Business,Eco Plus,0.4,Positive
+792,Smooth boarding process.,8,Personal,Economy,0.4,Positive
+793,Loved the meal options.,8,Personal,Business,0.7,Positive
+794,Smooth boarding process.,10,Personal,Business,0.4,Positive
+795,Loved the meal options.,8,Business,Economy,0.7,Positive
+796,Rude staff at the gate.,2,Business,Business,-0.3,Negative
+797,Wi-fi was fast and reliable.,7,Business,Eco Plus,0.2,Positive
+798,Loved the meal options.,9,Business,Eco Plus,0.7,Positive
+799,The food was cold.,4,Personal,Business,-0.6,Negative
+800,The cabin crew was amazing!,8,Personal,Business,0.7500000000000001,Positive
+801,Lost my bags again.,4,Personal,Economy,0.0,Neutral
+802,Clean plane and friendly staff.,7,Personal,Business,0.37083333333333335,Positive
+803,Smooth boarding process.,8,Business,Business,0.4,Positive
+804,The seat wouldn't recline.,2,Personal,Business,0.0,Neutral
+805,The seat wouldn't recline.,3,Personal,Business,0.0,Neutral
+806,Loved the meal options.,7,Business,Economy,0.7,Positive
+807,Wi-fi didn't work the whole flight.,5,Personal,Eco Plus,0.2,Positive
+808,Rude staff at the gate.,1,Personal,Eco Plus,-0.3,Negative
+809,Wi-fi was fast and reliable.,8,Personal,Economy,0.2,Positive
+810,Lost my bags again.,1,Personal,Eco Plus,0.0,Neutral
+811,The seat wouldn't recline.,2,Personal,Business,0.0,Neutral
+812,Wi-fi didn't work the whole flight.,5,Business,Economy,0.2,Positive
+813,Wi-fi was fast and reliable.,9,Business,Business,0.2,Positive
+814,Smooth boarding process.,8,Personal,Business,0.4,Positive
+815,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+816,Loved the meal options.,10,Personal,Business,0.7,Positive
+817,Loved the meal options.,7,Business,Business,0.7,Positive
+818,Loved the meal options.,10,Personal,Business,0.7,Positive
+819,Smooth boarding process.,10,Personal,Business,0.4,Positive
+820,Wi-fi was fast and reliable.,8,Business,Eco Plus,0.2,Positive
+821,Wi-fi didn't work the whole flight.,4,Business,Economy,0.2,Positive
+822,The food was cold.,3,Personal,Eco Plus,-0.6,Negative
+823,The cabin crew was amazing!,7,Business,Economy,0.7500000000000001,Positive
+824,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+825,Wi-fi didn't work the whole flight.,2,Personal,Economy,0.2,Positive
+826,Loved the meal options.,7,Personal,Economy,0.7,Positive
+827,Rude staff at the gate.,1,Personal,Economy,-0.3,Negative
+828,Lost my bags again.,4,Personal,Eco Plus,0.0,Neutral
+829,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+830,The food was cold.,2,Personal,Economy,-0.6,Negative
+831,Rude staff at the gate.,5,Personal,Eco Plus,-0.3,Negative
+832,Smooth boarding process.,9,Personal,Business,0.4,Positive
+833,Smooth boarding process.,10,Business,Eco Plus,0.4,Positive
+834,Great legroom in economy.,10,Business,Economy,0.8,Positive
+835,Great legroom in economy.,10,Business,Business,0.8,Positive
+836,Lost my bags again.,1,Personal,Eco Plus,0.0,Neutral
+837,Clean plane and friendly staff.,10,Personal,Economy,0.37083333333333335,Positive
+838,No legroom at all.,3,Business,Economy,0.0,Neutral
+839,Wi-fi was fast and reliable.,10,Business,Economy,0.2,Positive
+840,Smooth boarding process.,10,Personal,Business,0.4,Positive
+841,Great legroom in economy.,7,Business,Eco Plus,0.8,Positive
+842,Rude staff at the gate.,5,Business,Eco Plus,-0.3,Negative
+843,The seat wouldn't recline.,1,Business,Economy,0.0,Neutral
+844,Clean plane and friendly staff.,8,Business,Economy,0.37083333333333335,Positive
+845,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+846,Clean plane and friendly staff.,9,Personal,Business,0.37083333333333335,Positive
+847,Loved the meal options.,9,Business,Economy,0.7,Positive
+848,Great legroom in economy.,8,Personal,Business,0.8,Positive
+849,Wi-fi was fast and reliable.,9,Personal,Economy,0.2,Positive
+850,Wi-fi didn't work the whole flight.,4,Business,Business,0.2,Positive
+851,Lost my bags again.,1,Personal,Eco Plus,0.0,Neutral
+852,Great legroom in economy.,8,Personal,Eco Plus,0.8,Positive
+853,The seat wouldn't recline.,1,Business,Eco Plus,0.0,Neutral
+854,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+855,Smooth boarding process.,7,Personal,Economy,0.4,Positive
+856,The cabin crew was amazing!,9,Personal,Economy,0.7500000000000001,Positive
+857,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+858,The cabin crew was amazing!,9,Business,Business,0.7500000000000001,Positive
+859,Clean plane and friendly staff.,7,Business,Business,0.37083333333333335,Positive
+860,Smooth boarding process.,7,Business,Business,0.4,Positive
+861,Rude staff at the gate.,5,Business,Economy,-0.3,Negative
+862,Loved the meal options.,10,Business,Economy,0.7,Positive
+863,The cabin crew was amazing!,7,Business,Business,0.7500000000000001,Positive
+864,Rude staff at the gate.,2,Business,Eco Plus,-0.3,Negative
+865,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+866,Great legroom in economy.,7,Business,Eco Plus,0.8,Positive
+867,Clean plane and friendly staff.,7,Business,Economy,0.37083333333333335,Positive
+868,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+869,Smooth boarding process.,10,Personal,Business,0.4,Positive
+870,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+871,Loved the meal options.,9,Personal,Eco Plus,0.7,Positive
+872,The seat wouldn't recline.,3,Business,Economy,0.0,Neutral
+873,The seat wouldn't recline.,3,Personal,Eco Plus,0.0,Neutral
+874,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+875,Clean plane and friendly staff.,7,Business,Economy,0.37083333333333335,Positive
+876,The food was cold.,1,Business,Economy,-0.6,Negative
+877,Smooth boarding process.,8,Personal,Eco Plus,0.4,Positive
+878,No legroom at all.,1,Business,Business,0.0,Neutral
+879,No legroom at all.,4,Business,Economy,0.0,Neutral
+880,Clean plane and friendly staff.,9,Business,Business,0.37083333333333335,Positive
+881,Loved the meal options.,7,Personal,Business,0.7,Positive
+882,The cabin crew was amazing!,7,Personal,Business,0.7500000000000001,Positive
+883,Great legroom in economy.,7,Personal,Business,0.8,Positive
+884,Loved the meal options.,8,Business,Economy,0.7,Positive
+885,Rude staff at the gate.,1,Business,Eco Plus,-0.3,Negative
+886,Wi-fi was fast and reliable.,9,Personal,Business,0.2,Positive
+887,Great legroom in economy.,10,Personal,Business,0.8,Positive
+888,Great legroom in economy.,9,Business,Eco Plus,0.8,Positive
+889,The seat wouldn't recline.,4,Business,Economy,0.0,Neutral
+890,Rude staff at the gate.,3,Personal,Eco Plus,-0.3,Negative
+891,Clean plane and friendly staff.,7,Personal,Business,0.37083333333333335,Positive
+892,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+893,Clean plane and friendly staff.,7,Business,Eco Plus,0.37083333333333335,Positive
+894,Smooth boarding process.,10,Business,Eco Plus,0.4,Positive
+895,No legroom at all.,5,Business,Eco Plus,0.0,Neutral
+896,Smooth boarding process.,9,Personal,Business,0.4,Positive
+897,Clean plane and friendly staff.,7,Business,Economy,0.37083333333333335,Positive
+898,Rude staff at the gate.,1,Business,Eco Plus,-0.3,Negative
+899,Loved the meal options.,7,Business,Business,0.7,Positive
+900,The seat wouldn't recline.,1,Personal,Business,0.0,Neutral
+901,Great legroom in economy.,9,Personal,Eco Plus,0.8,Positive
+902,The food was cold.,4,Business,Eco Plus,-0.6,Negative
+903,Wi-fi was fast and reliable.,7,Business,Business,0.2,Positive
+904,Loved the meal options.,7,Business,Economy,0.7,Positive
+905,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+906,Rude staff at the gate.,1,Business,Business,-0.3,Negative
+907,No legroom at all.,3,Business,Business,0.0,Neutral
+908,Great legroom in economy.,7,Business,Business,0.8,Positive
+909,No legroom at all.,2,Personal,Eco Plus,0.0,Neutral
+910,Wi-fi was fast and reliable.,9,Business,Business,0.2,Positive
+911,The seat wouldn't recline.,1,Business,Eco Plus,0.0,Neutral
+912,Wi-fi was fast and reliable.,8,Personal,Economy,0.2,Positive
+913,Clean plane and friendly staff.,9,Business,Eco Plus,0.37083333333333335,Positive
+914,Rude staff at the gate.,1,Personal,Economy,-0.3,Negative
+915,Wi-fi was fast and reliable.,7,Personal,Economy,0.2,Positive
+916,Wi-fi was fast and reliable.,10,Personal,Business,0.2,Positive
+917,Great legroom in economy.,10,Business,Economy,0.8,Positive
+918,Great legroom in economy.,8,Business,Business,0.8,Positive
+919,Great legroom in economy.,7,Business,Business,0.8,Positive
+920,Smooth boarding process.,9,Personal,Eco Plus,0.4,Positive
+921,Wi-fi didn't work the whole flight.,2,Business,Economy,0.2,Positive
+922,Smooth boarding process.,10,Business,Economy,0.4,Positive
+923,Loved the meal options.,7,Personal,Eco Plus,0.7,Positive
+924,Loved the meal options.,9,Business,Economy,0.7,Positive
+925,Rude staff at the gate.,4,Business,Business,-0.3,Negative
+926,Smooth boarding process.,7,Business,Business,0.4,Positive
+927,The cabin crew was amazing!,7,Business,Business,0.7500000000000001,Positive
+928,Smooth boarding process.,10,Personal,Business,0.4,Positive
+929,No legroom at all.,1,Business,Economy,0.0,Neutral
+930,Clean plane and friendly staff.,9,Business,Eco Plus,0.37083333333333335,Positive
+931,The food was cold.,5,Personal,Eco Plus,-0.6,Negative
+932,Wi-fi was fast and reliable.,8,Business,Eco Plus,0.2,Positive
+933,Smooth boarding process.,9,Business,Eco Plus,0.4,Positive
+934,The seat wouldn't recline.,4,Business,Eco Plus,0.0,Neutral
+935,Smooth boarding process.,8,Business,Business,0.4,Positive
+936,Clean plane and friendly staff.,8,Personal,Economy,0.37083333333333335,Positive
+937,The seat wouldn't recline.,3,Personal,Business,0.0,Neutral
+938,Great legroom in economy.,8,Business,Eco Plus,0.8,Positive
+939,The food was cold.,2,Personal,Eco Plus,-0.6,Negative
+940,The seat wouldn't recline.,3,Personal,Eco Plus,0.0,Neutral
+941,Wi-fi was fast and reliable.,7,Business,Eco Plus,0.2,Positive
+942,The cabin crew was amazing!,9,Business,Business,0.7500000000000001,Positive
+943,Great legroom in economy.,7,Business,Business,0.8,Positive
+944,Lost my bags again.,1,Personal,Economy,0.0,Neutral
+945,Smooth boarding process.,10,Business,Economy,0.4,Positive
+946,Lost my bags again.,2,Business,Eco Plus,0.0,Neutral
+947,No legroom at all.,1,Business,Eco Plus,0.0,Neutral
+948,Smooth boarding process.,7,Business,Business,0.4,Positive
+949,The cabin crew was amazing!,9,Business,Eco Plus,0.7500000000000001,Positive
+950,Smooth boarding process.,9,Personal,Business,0.4,Positive
+951,The food was cold.,4,Business,Economy,-0.6,Negative
+952,Clean plane and friendly staff.,10,Business,Eco Plus,0.37083333333333335,Positive
+953,The seat wouldn't recline.,1,Business,Business,0.0,Neutral
+954,Wi-fi was fast and reliable.,8,Business,Economy,0.2,Positive
+955,Wi-fi was fast and reliable.,7,Personal,Business,0.2,Positive
+956,Great legroom in economy.,9,Personal,Business,0.8,Positive
+957,The seat wouldn't recline.,4,Business,Economy,0.0,Neutral
+958,Loved the meal options.,10,Business,Economy,0.7,Positive
+959,No legroom at all.,5,Business,Business,0.0,Neutral
+960,Smooth boarding process.,9,Personal,Economy,0.4,Positive
+961,Wi-fi was fast and reliable.,8,Personal,Eco Plus,0.2,Positive
+962,Loved the meal options.,9,Personal,Eco Plus,0.7,Positive
+963,Wi-fi was fast and reliable.,10,Business,Business,0.2,Positive
+964,The seat wouldn't recline.,1,Business,Eco Plus,0.0,Neutral
+965,Smooth boarding process.,10,Business,Economy,0.4,Positive
+966,The cabin crew was amazing!,8,Personal,Economy,0.7500000000000001,Positive
+967,Clean plane and friendly staff.,9,Personal,Business,0.37083333333333335,Positive
+968,Wi-fi was fast and reliable.,7,Business,Economy,0.2,Positive
+969,Rude staff at the gate.,1,Business,Business,-0.3,Negative
+970,The cabin crew was amazing!,10,Business,Eco Plus,0.7500000000000001,Positive
+971,Great legroom in economy.,10,Personal,Economy,0.8,Positive
+972,Clean plane and friendly staff.,8,Personal,Business,0.37083333333333335,Positive
+973,Wi-fi was fast and reliable.,8,Personal,Eco Plus,0.2,Positive
+974,Lost my bags again.,3,Personal,Business,0.0,Neutral
+975,Great legroom in economy.,10,Business,Eco Plus,0.8,Positive
+976,Great legroom in economy.,8,Personal,Eco Plus,0.8,Positive
+977,Great legroom in economy.,8,Personal,Economy,0.8,Positive
+978,The seat wouldn't recline.,1,Business,Eco Plus,0.0,Neutral
+979,Clean plane and friendly staff.,7,Business,Business,0.37083333333333335,Positive
+980,Rude staff at the gate.,5,Personal,Business,-0.3,Negative
+981,Rude staff at the gate.,2,Business,Economy,-0.3,Negative
+982,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+983,Rude staff at the gate.,2,Business,Economy,-0.3,Negative
+984,The cabin crew was amazing!,7,Business,Business,0.7500000000000001,Positive
+985,Lost my bags again.,3,Business,Economy,0.0,Neutral
+986,Clean plane and friendly staff.,8,Personal,Business,0.37083333333333335,Positive
+987,Clean plane and friendly staff.,9,Personal,Eco Plus,0.37083333333333335,Positive
+988,Smooth boarding process.,8,Personal,Business,0.4,Positive
+989,The cabin crew was amazing!,8,Business,Business,0.7500000000000001,Positive
+990,Rude staff at the gate.,4,Business,Economy,-0.3,Negative
+991,Smooth boarding process.,8,Business,Economy,0.4,Positive
+992,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+993,Wi-fi didn't work the whole flight.,5,Business,Business,0.2,Positive
+994,Loved the meal options.,10,Business,Eco Plus,0.7,Positive
+995,The seat wouldn't recline.,2,Business,Eco Plus,0.0,Neutral
+996,Wi-fi was fast and reliable.,8,Business,Eco Plus,0.2,Positive
+997,Smooth boarding process.,7,Personal,Eco Plus,0.4,Positive
+998,Smooth boarding process.,7,Business,Eco Plus,0.4,Positive
+999,Great legroom in economy.,7,Business,Economy,0.8,Positive
