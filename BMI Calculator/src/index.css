@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  --bg-primary: #0a0f1d;
+  --bg-radial: radial-gradient(circle at 50% 0%, #1e1b4b 0%, #0a0f1d 70%);
+  --glass-bg: rgba(15, 23, 42, 0.45);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-border-hover: rgba(255, 255, 255, 0.15);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  
+  --primary: #6366f1;
+  --primary-hover: #4f46e5;
+  --primary-glow: rgba(99, 102, 241, 0.3);
+  
+  --accent: #10b981;
+  --accent-hover: #059669;
+  
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  
+  /* BMI Range Colors */
+  --bmi-underweight: #38bdf8; /* sky blue */
+  --bmi-normal: #10b981; /* emerald green */
+  --bmi-overweight: #f59e0b; /* amber */
+  --bmi-obese: #ef4444; /* red */
+  
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg-radial);
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+  position: relative;
+}
+
+/* Background decorative glows */
+body::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  width: 300px;
+  height: 300px;
+  background: rgba(99, 102, 241, 0.15);
+  border-radius: 50%;
+  filter: blur(100px);
+  pointer-events: none;
+  z-index: 0;
+}
+
+body::after {
+  content: '';
+  position: absolute;
+  bottom: 15%;
+  right: 10%;
+  width: 400px;
+  height: 400px;
+  background: rgba(16, 185, 129, 0.1);
+  border-radius: 50%;
+  filter: blur(120px);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  position: relative;
+  z-index: 1;
+}
+
+/* Custom Responsive Flex Grid supporting Materialize names */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -0.75rem;
+  margin-left: -0.75rem;
+}
+
+.row.center {
+  justify-content: center;
+  text-align: center;
+}
+
+.col {
+  position: relative;
+  width: 100%;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+/* Extra small (mobile) */
+.s12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+/* Medium (tablet+) */
+@media (min-width: 601px) {
+  .m6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .m12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+.white-text {
+  color: var(--text-primary);
+}
+
+/* Smooth Fade in animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(15px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease forwards;
+}
